@@ -14,7 +14,7 @@ This is what I am studying:
 
 ![my research interests](/cover/cover.jpg)
 
-and this (anything that involves data, model(s), and methods for inference):
+and anything that involves data, model(s), and methods for inference:
 
 ![my research interests](/cover/cover+.jpg)
 

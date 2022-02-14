@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-**I convolve the information of our world with my curious kernel. **
+## I convolve the information of our world with my curious kernel.
 
 Hi, friend, This is Yi Tuan, I am currently a post-doctor at the Department of Astronomy, Xiamen University, People’s Republic of China.
 

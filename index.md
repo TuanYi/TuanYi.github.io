@@ -1,4 +1,4 @@
-I am currently a post-doctor at the Department of Astronomy, Xiamen University, People’s Republic of China. My research interests cover:
+Hi, friends, this is Yi Tuan (伊团). I am currently a post-doctor at the Department of Astronomy, Xiamen University, People’s Republic of China. My research interests cover:
 
 (a) The multi-wavelength observations and analyses of binary systems that contain compact objects (white dwarfs, neutron stars, or black holes).
 

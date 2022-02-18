@@ -6,7 +6,7 @@ Hi, friends, this is Yi Tuan (伊团). I am currently a post-doctor at the Depar
 
 (c) Galactic stellar formation and evolution theory; the stellar activities and dynamo.
 
-(d) Procedural generation and artistic rendering of celestial objects.
+(d) Procedural generation and artistic rendering of animations for celestial objects.
 
 This is what I am studying:
 
